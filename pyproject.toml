@@ -1,0 +1,22 @@
+[project]
+name = "ag-icons"
+description = "Inline-SVG icon registry + {% icon %} template tag for Django — Heroicons-style outline set with an emoji->icon migration map"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "Angus Luo" }]
+dependencies = ["django>=4.2"]
+dynamic = ["version"]
+
+[project.urls]
+Repository = "https://github.com/Angus-Luo/ag-icons"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.version]
+path = "src/ag_icons/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ag_icons"]

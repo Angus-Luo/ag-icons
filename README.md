@@ -58,11 +58,18 @@ EMOJI_MAP["📊"]   # -> "chart-bar"
 
 `from ag_icons import ICONS; sorted(ICONS)` — currently:
 
-archive-box · arrow-down-tray · arrow-uturn-left · banknotes · book-open ·
-building · calendar · chart-bar · check · check-circle · clock · cog ·
-document-down · exclamation-triangle · eye · funnel · globe · language ·
-light-bulb · pencil · pencil-square · plus · presentation · printer ·
-sparkles · squares · trending-up
+academic-cap · adjustments · archive-box · arrow-down · arrow-down-tray ·
+arrow-path · arrow-up · arrow-up-tray · arrow-uturn-left · banknotes ·
+beach-umbrella · bell-alert · bolt · book-open · briefcase · building · cake ·
+calendar · camera · chart-bar · chat-bubble · check · check-circle ·
+clipboard · clock · cog · computer-desktop · cursor-arrow · device-phone ·
+document-down · document-text · door · dot · envelope · exclamation-triangle ·
+eye · eye-slash · factory · flag · folder · funnel · globe · hand-wave · home ·
+hourglass · identification · information-circle · language · light-bulb · link ·
+lock-closed · map-pin · medal · palm-tree · pencil · pencil-square · phone ·
+photo · plus · presentation · printer · receipt · rocket-launch · scale ·
+sparkles · squares · star · storefront · sun · tag · traffic-light ·
+trending-down · trending-up · trophy · user · users · wrench · x-circle
 
 ## Adding an icon
 
